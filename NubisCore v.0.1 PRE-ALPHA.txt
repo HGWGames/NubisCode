@@ -1,0 +1,26 @@
+Comands:
+
+APT-
+instal
+open
+upgrade
+update
+reinstal
+export
+import
+data
+info
+
+DATA-
+(Lokalizacja pliku)
+(id pliku)
+(URL)
+
+GET-
+(Nazwa Pliku)
+
+SET-
+(ID)
+(Nazwa)
+
+PRINT-
